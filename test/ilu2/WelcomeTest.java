@@ -8,7 +8,7 @@ class WelcomeTest {
 
 	@Test
 	void test() {
-		assertEquals(Welcome.welcome("bob"),"Hello, bob");
+		assertEquals(Welcome.welcome("bob"),"Hello, Bob");
 	}
 
 }
